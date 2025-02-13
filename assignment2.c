@@ -10,12 +10,6 @@ int main()
   return 0;
   
 }
-
-
-
-
-
-
 int p4()
 {
   int l,b,h,vol;
