@@ -82,6 +82,9 @@ void merge(int a[],int b[],int size,int c[])
     }
     
 }
+int main(){
+    merge([1,2,3,4,5],[3,3,345,6],10,[1,2,3,4]);
+}
 
 
 

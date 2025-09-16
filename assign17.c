@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+int p11()
 {
     int i,j;
     for(i=1;i<=5;i++)
@@ -93,7 +93,7 @@ void p6()
         }printf("\n");
     }
 }
-void p5()
+int main()
 {
     int i,j;
     for(i=1;i<=5;i++)
@@ -126,7 +126,7 @@ void p4()
 
 
 
-void p2()
+void p3()
 {
     int i,j;
     for(i=1;i<=5;i++)
@@ -140,7 +140,7 @@ void p2()
         }printf("\n");
     }     
 }
-void p3()
+void p2()
 {
     int i,j;
     for(i=1;i<=5;i++)
