@@ -61,7 +61,7 @@ void sortbyname(struct employee e[],int n)
     {
         for(i=0;i<n-1-r;i++)
         {
-            if(strcmp(e[i].name,e[i+1].name))
+            if(strcmp(e[i].name,e[i+1].name)>0)
             {
                 temp=e[i];
                 e[i]=e[i+1];
